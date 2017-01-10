@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.iridium" version="1.9.5" name="Iridium" provider-name="deletescape, phil65, Piers">
+<addon id="skin.iridium" version="1.9.5" name="Iridium" provider-name="Team Iridium">
 	<requires>
 		<import addon="xbmc.gui" version="5.13.0"/>
 	</requires>
